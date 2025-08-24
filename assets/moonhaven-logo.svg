@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .e {
+        fill: #d2d2d1;
+      }
+
+      .e, .f, .g, .h, .i, .j {
+        stroke-width: 0px;
+      }
+
+      .f {
+        fill: #707071;
+      }
+
+      .g {
+        fill: #0e0d0e;
+      }
+
+      .h {
+        fill: url(#b);
+      }
+
+      .i {
+        fill: #b4b4b5;
+      }
+
+      .k {
+        stroke: #f8f8f9;
+      }
+
+      .k, .l {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .l {
+        stroke: #d2d2d1;
+        stroke-width: .25px;
+      }
+
+      .j {
+        fill: #717071;
+      }
+    </style>
+    <linearGradient id="b" x1="70.87" y1="141.73" x2="70.87" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4b4b5"/>
+      <stop offset=".23" stop-color="#b4b4b5" stop-opacity=".7"/>
+      <stop offset=".49" stop-color="#b4b4b5" stop-opacity=".4"/>
+      <stop offset=".71" stop-color="#b4b4b5" stop-opacity=".18"/>
+      <stop offset=".89" stop-color="#b4b4b5" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#b4b4b5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="a" data-name="back">
+    <rect class="g" x=".14" y="-.06" width="141.73" height="141.73"/>
+    <rect class="h" width="141.73" height="141.73"/>
+    <rect class="i" x="0" y="57.74" width="141.73" height="84"/>
+  </g>
+  <g id="d" data-name="draw">
+    <path class="e" d="M29.94,60.87c-3.83,4.27-10.49,8.28-16.88,9.13,5.24.19,18.24-.99,22.07-2.97l-5.19-6.16Z"/>
+    <path class="f" d="M65.33,80.09c-6.77-1.53-24.46-4.08-35.16-18.57l20.24,4.57,14.85,13.96.07.04Z"/>
+    <path class="g" d="M136.71,72.12s-.01.02-.02.03c-7.14,6-26.36,10.3-48.94,10.3-5.91,0-11.59-.29-16.88-.84-11.2-1.47-18.61-10.78-20.36-15.39l61.29-5.32s2.23,2.24,3.58,3.28c8.65,1.25,24.88,4.61,21.33,7.94Z"/>
+    <path class="g" d="M111.81,60.91s-.01-.01-.02-.02h.01s.01,0,.01.02Z"/>
+    <path class="k" d="M111.8,60.89s0-.01,0-.02"/>
+    <ellipse class="j" cx="70.87" cy="60.87" rx="40.93" ry="6.17"/>
+    <path class="g" d="M71.01,67.03c-22.16-.08-41.07-2.91-41.07-6.27,0-2.85,12.83-5.13,30.27-5.84,1.29,4.98,5.81,11.42,10.8,12.12Z"/>
+    <ellipse class="l" cx="70.87" cy="60.87" rx="40.93" ry="6.17"/>
+  </g>
+</svg>
